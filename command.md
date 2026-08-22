@@ -14,3 +14,5 @@ exit  — выйти
 # Для запуска Streamlit установите зависимость:
 python -m pip install streamlit
 streamlit run main.py
+
+,,,
