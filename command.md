@@ -15,4 +15,5 @@ exit  — выйти
 python -m pip install streamlit
 streamlit run main.py
 
-,,,
+mkdir pages
+
