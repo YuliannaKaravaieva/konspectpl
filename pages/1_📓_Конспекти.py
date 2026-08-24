@@ -5,7 +5,7 @@ st.set_page_config(page_title="Конспекти", page_icon="📓", layout="wi
 st.title("📚 Граматичний довідник")
 st.caption("Статичні конспекти та правила польської мови")
 
-# Полочки (Вкладки)
+# Полочки (Вкладки).
 tab_meski, tab_zenski, tab_nijaki, tab_ogolne = st.tabs([
     "👔 Чоловічий (Męski)", 
     "👗 Жіночий (Żeński)", 
